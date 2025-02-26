@@ -8,7 +8,7 @@ This project was assigned as part of **Quarter 3 (Q3) of the "Governor Initiativ
 ## **🛠️ Technologies Used**
 - **Python** → Core programming language
 - **Streamlit** → For the frontend UI
-- **Google Generative AI (Gemini API)** → AI-powered responses
+- **Mistral AI** → AI-powered responses
 - **Python-dotenv** → Securely manage API keys
 
 ---
