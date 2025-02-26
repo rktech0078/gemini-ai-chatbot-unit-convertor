@@ -2,3 +2,4 @@ streamlit
 mistralai
 google-generativeai
 python-dotenv
+requests
