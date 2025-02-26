@@ -11,7 +11,8 @@ API_KEY = os.getenv("MISTRAL_API_KEY") or "f4JAFvDHZ7qkFEnbSMPPh74SMAVtzA2K"
 API_URL = "https://api.mistral.ai/v1/chat/completions"
 
 # Streamlit UI
-st.title("🤖 Mistral AI Chatbot")
+st.success("Made with ❤️ by Abdul Rafay Khan")
+st.title("🤖 AI Chatbot And Unit Convertor")
 
 # Initialize chat history
 if "messages" not in st.session_state:
