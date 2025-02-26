@@ -1,3 +1,4 @@
 streamlit
+mistralai
 google-generativeai
 python-dotenv
