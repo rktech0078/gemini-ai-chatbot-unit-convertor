@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
-API_KEY = os.getenv("MISTRAL_API_KEY") 
+API_KEY = os.getenv("MISTRAL_API_KEY") or "f4JAFvDHZ7qkFEnbSMPPh74SMAVtzA2K"
 
 # API URL
 API_URL = "https://api.mistral.ai/v1/chat/completions"
